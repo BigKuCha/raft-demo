@@ -1,4 +1,4 @@
-package fsm
+package store
 
 import (
 	"fmt"

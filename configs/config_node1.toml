@@ -1,0 +1,6 @@
+[app]
+httpAddr = "127.0.0.1:5502"
+[raft]
+LocalID = "node1"
+Addr = "127.0.0.1:8881"
+State = ""
